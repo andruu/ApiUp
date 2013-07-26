@@ -7,6 +7,7 @@
             "email": "andru.weir@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
 
     },
